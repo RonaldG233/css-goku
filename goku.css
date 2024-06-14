@@ -1,0 +1,40 @@
+.spider{
+  display: block;
+  width: 600px;
+  height:400px;
+  margin: 0 auto;
+  background: white;
+  text-align: center;
+  align-content: center;
+  filter: drop-shadow(20px 0px 20px);
+  border-radius: 20px;
+  padding: auto;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+.spider2{
+    background: white;
+  text-align: center;
+  align-content: center;
+  filter: drop-shadow(20px 0px 20px);
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: auto;
+}
+
+.goku{
+  display: block;
+  width: 600px;
+  height: 1000px;
+  margin: 0 auto;
+  filter: drop-shadow(10px 20px 25px #ffee00);
+}
+
+.button{
+
+  background: red;
+  margin:0 auto;
+  color: white;
+  align-content: center;
+  border-radius: 20px;
+}
